@@ -1,6 +1,6 @@
 {
-  "name": "milagro-crypto-js",
-  "version": "0.1.0",
+  "name": "@davidkhala/milagro-crypto-js",
+  "version": "0.1.0-0.0.1",
   "description": "Apache Milagro Crypto JavaScript Library",
   "main": "index.js",
   "directories": {
