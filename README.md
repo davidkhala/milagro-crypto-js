@@ -23,9 +23,9 @@
 [![Master Build Status](https://secure.travis-ci.org/apache/incubator-milagro-crypto-js.png?branch=master)](https://travis-ci.org/apache/incubator-milagro-crypto-js?branch=master)
 [![Master Coverage Status](https://coveralls.io/repos/github/apache/incubator-milagro-crypto-js/badge.svg?branch=master)](https://coveralls.io/github/apache/incubator-milagro-crypto-js?branch=master)
 
-[![Develop Branch](https://img.shields.io/badge/-develop:-gray.svg)](https://github.com/apache/incubator-milagro-crypto-js/tree/develop)
-[![Develop Build Status](https://secure.travis-ci.org/apache/incubator-milagro-crypto-js.png?branch=develop)](https://travis-ci.org/apache/incubator-milagro-crypto-js?branch=develop)
-[![Develop Coverage Status](https://coveralls.io/repos/github/apache/incubator-milagro-crypto-js/badge.svg?branch=develop)](https://coveralls.io/github/apache/incubator-milagro-crypto-js?branch=develop)
+[![Develop Branch](https://img.shields.io/badge/-develop:-gray.svg)](https://github.com/davidkhala/milagro-crypto-js/tree/develop)
+[![Develop Build Status](https://secure.travis-ci.org/davidkhala/milagro-crypto-js.png?branch=develop)](https://travis-ci.org/davidkhala/milagro-crypto-js?branch=develop)
+[![Develop Coverage Status](https://coveralls.io/repos/github/davidkhala/milagro-crypto-js/badge.svg?branch=develop)](https://coveralls.io/github/davidkhala/milagro-crypto-js?branch=develop)
 
 
 * **category**:    Library

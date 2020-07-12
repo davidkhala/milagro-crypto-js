@@ -8,8 +8,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha-parallel-tests",
-    "coverage": "nyc mocha-parallel-tests",
+    "test": "mocha",
+    "coverage": "nyc mocha",
     "report": "nyc report --reporter=text-lcov | coveralls",
     "lint": "eslint ."
   },
@@ -36,8 +36,7 @@
     "istanbul": "latest",
     "mocha": "latest",
     "mocha-text-cov": "latest",
-    "nyc": "latest",
-    "mocha-parallel-tests": "latest"
+    "nyc": "latest"
   },
   "nyc": {
     "include": [
